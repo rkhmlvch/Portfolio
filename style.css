@@ -1,0 +1,11 @@
+.wave-bg {
+    display: block;
+    z-index: -1;
+    height: 220px;
+    width: 100%;
+    min-width: 600px;
+    transform-origin: top;
+    background-image: url("./images/wave-bg.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+  }
